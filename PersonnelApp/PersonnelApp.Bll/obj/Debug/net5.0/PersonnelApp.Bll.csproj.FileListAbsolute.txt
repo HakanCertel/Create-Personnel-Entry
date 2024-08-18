@@ -1,0 +1,17 @@
+C:\Users\PC\source\repos\PersonnelApp\PersonnelApp.Bll\bin\Debug\net5.0\PersonnelApp.Bll.deps.json
+C:\Users\PC\source\repos\PersonnelApp\PersonnelApp.Bll\bin\Debug\net5.0\PersonnelApp.Bll.dll
+C:\Users\PC\source\repos\PersonnelApp\PersonnelApp.Bll\bin\Debug\net5.0\PersonnelApp.Bll.pdb
+C:\Users\PC\source\repos\PersonnelApp\PersonnelApp.Bll\bin\Debug\net5.0\PersonnelApp.Dal.dll
+C:\Users\PC\source\repos\PersonnelApp\PersonnelApp.Bll\bin\Debug\net5.0\PersonnelApp.Model.dll
+C:\Users\PC\source\repos\PersonnelApp\PersonnelApp.Bll\bin\Debug\net5.0\PersonnelApp.Dal.pdb
+C:\Users\PC\source\repos\PersonnelApp\PersonnelApp.Bll\bin\Debug\net5.0\PersonnelApp.Model.pdb
+C:\Users\PC\source\repos\PersonnelApp\PersonnelApp.Bll\obj\Debug\net5.0\PersonnelApp.Bll.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\PersonnelApp\PersonnelApp.Bll\obj\Debug\net5.0\PersonnelApp.Bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\PersonnelApp\PersonnelApp.Bll\obj\Debug\net5.0\PersonnelApp.Bll.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\PersonnelApp\PersonnelApp.Bll\obj\Debug\net5.0\PersonnelApp.Bll.AssemblyInfo.cs
+C:\Users\PC\source\repos\PersonnelApp\PersonnelApp.Bll\obj\Debug\net5.0\PersonnelApp.Bll.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\PersonnelApp\PersonnelApp.Bll\obj\Debug\net5.0\Personne.CB7114D7.Up2Date
+C:\Users\PC\source\repos\PersonnelApp\PersonnelApp.Bll\obj\Debug\net5.0\PersonnelApp.Bll.dll
+C:\Users\PC\source\repos\PersonnelApp\PersonnelApp.Bll\obj\Debug\net5.0\refint\PersonnelApp.Bll.dll
+C:\Users\PC\source\repos\PersonnelApp\PersonnelApp.Bll\obj\Debug\net5.0\PersonnelApp.Bll.pdb
+C:\Users\PC\source\repos\PersonnelApp\PersonnelApp.Bll\obj\Debug\net5.0\ref\PersonnelApp.Bll.dll

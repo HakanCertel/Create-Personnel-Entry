@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\PersonnelApp\PersonnelApp.Entity\bin\Debug\net5.0\PersonnelApp.Model.deps.json
+C:\Users\PC\source\repos\PersonnelApp\PersonnelApp.Entity\bin\Debug\net5.0\PersonnelApp.Model.dll
+C:\Users\PC\source\repos\PersonnelApp\PersonnelApp.Entity\bin\Debug\net5.0\PersonnelApp.Model.pdb
+C:\Users\PC\source\repos\PersonnelApp\PersonnelApp.Entity\obj\Debug\net5.0\PersonnelApp.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\PersonnelApp\PersonnelApp.Entity\obj\Debug\net5.0\PersonnelApp.Model.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\PersonnelApp\PersonnelApp.Entity\obj\Debug\net5.0\PersonnelApp.Model.AssemblyInfo.cs
+C:\Users\PC\source\repos\PersonnelApp\PersonnelApp.Entity\obj\Debug\net5.0\PersonnelApp.Model.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\PersonnelApp\PersonnelApp.Entity\obj\Debug\net5.0\PersonnelApp.Model.dll
+C:\Users\PC\source\repos\PersonnelApp\PersonnelApp.Entity\obj\Debug\net5.0\refint\PersonnelApp.Model.dll
+C:\Users\PC\source\repos\PersonnelApp\PersonnelApp.Entity\obj\Debug\net5.0\PersonnelApp.Model.pdb
+C:\Users\PC\source\repos\PersonnelApp\PersonnelApp.Entity\obj\Debug\net5.0\ref\PersonnelApp.Model.dll
